@@ -29,17 +29,6 @@ Projeto acadêmico para controle de estoque, gerenciamento de vendas e emissão 
 
 ---
 
-## 🏗 Arquitetura do Sistema
-Aqui está um diagrama básico do fluxo de dados:
-
-```mermaid
-graph TD
-    A[Usuário] --> B[Windows Forms]
-    B --> C[Lógica de Negócios C#]
-    C --> D[(SQL Server)]
-    D --> E{VIEW Nota Fiscal}
-    E --> B
-
 ## ⚙️ Configuração do Banco de Dados
 
 ### 1️⃣ Criar o Banco de Dados
