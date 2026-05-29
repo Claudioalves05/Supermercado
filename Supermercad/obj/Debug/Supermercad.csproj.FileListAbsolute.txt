@@ -1,0 +1,43 @@
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\bin\Debug\Supermercad.exe.config
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\bin\Debug\Supermercad.exe
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\bin\Debug\Supermercad.pdb
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.Form1.resources
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.exe
+C:\Users\USER\OneDrive\Desktop\jogos\Supermercad\obj\Debug\Supermercad.pdb
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\bin\Debug\Supermercad.exe.config
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\bin\Debug\Supermercad.exe
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\bin\Debug\Supermercad.pdb
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.Form1.resources
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.exe
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.pdb
+C:\Users\USER\OneDrive\Desktop\jogos\Nova pasta\Supermercad\obj\Debug\Supermercad.frmCompras.resources
+C:\Users\bruno\Downloads\Supermercad\Supermercad\bin\Debug\Supermercad.exe.config
+C:\Users\bruno\Downloads\Supermercad\Supermercad\bin\Debug\Supermercad.exe
+C:\Users\bruno\Downloads\Supermercad\Supermercad\bin\Debug\Supermercad.pdb
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.Form1.resources
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.FrmCompras.resources
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.Properties.Resources.resources
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.exe
+C:\Users\bruno\Downloads\Supermercad\Supermercad\obj\Debug\Supermercad.pdb
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.AssemblyReference.cache
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.Form1.resources
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.FrmCompras.resources
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.Properties.Resources.resources
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.GenerateResource.cache
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.csproj.CoreCompileInputs.cache
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.exe
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\obj\Debug\Supermercad.pdb
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\bin\Debug\Supermercad.exe.config
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\bin\Debug\Supermercad.exe
+C:\Users\claud\Downloads\Supermercad (1)\Supermercad\Supermercad\bin\Debug\Supermercad.pdb

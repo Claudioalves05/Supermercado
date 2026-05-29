@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|c:\\users\\claud\\downloads\\supermercad (1)\\supermercad\\supermercad\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\frmcompras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:frmcompras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\frmcompras.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:frmcompras.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\prroduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:prroduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2350B62E-CC91-4E91-A9F6-B38FACCC563A}|Supermercad.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 173,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCompras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "FrmCompras.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.cs [Design]",
+              "RelativeToolTip": "FrmCompras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T22:04:34.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCompras.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "FrmCompras.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.cs",
+              "RelativeToolTip": "FrmCompras.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAvwNkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:12:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCompras.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCompras.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.Designer.cs",
+              "RelativeToolTip": "FrmCompras.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:56:52.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwMkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:33:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T20:15:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemCarrinho.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\ItemCarrinho.cs",
+              "RelativeDocumentMoniker": "ItemCarrinho.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\ItemCarrinho.cs",
+              "RelativeToolTip": "ItemCarrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T21:59:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCompras.resx",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.resx",
+              "RelativeDocumentMoniker": "FrmCompras.resx",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\FrmCompras.resx",
+              "RelativeToolTip": "FrmCompras.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-28T22:27:01.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prroduto.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Prroduto.cs",
+              "RelativeDocumentMoniker": "Prroduto.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Prroduto.cs",
+              "RelativeToolTip": "Prroduto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T21:58:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAawNwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:47:08.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\claud\\Downloads\\Supermercad (1)\\Supermercad\\Supermercad\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-28T19:58:46.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
