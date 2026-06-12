@@ -3,13 +3,13 @@
 Projeto acadêmico para controle de estoque, gerenciamento de vendas e emissão de notas fiscais.
 
 ## 👥 Integrantes
-- **Maria Nicolly Bezerra Lima** (923104157)
-- **Rafael Ferreira Benedito** (923111689)
-- **Claudio Alves Rodrigues Junior** (923101514)
-- **Micael dos Santos Ribeiro** (923110499)
-- **Bruno Alves de Souza** (923100014)
-- **Joao Victor Santos de Souza** (923102159)
-- **Samuel de Aguiar Goes** (923112994)
+- **Claudio Alves** 
+- **Maria Nicolly Bezerra Lima** 
+- **Rafael Ferreira Benedito** 
+- **Micael dos Santos Ribeiro** 
+- **Bruno Alves de Souza** 
+- **Joao Victor Santos de Souza** 
+- **Samuel de Aguiar Goes** 
 
 ---
 
